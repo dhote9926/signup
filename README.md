@@ -5,6 +5,12 @@ A Signup form made with HTML/CSS/JS.
 ## Link: 
 -  https://dhote9926.github.io/signup/
 
+## Features
+- HTML
+- CSS
+- Form Validation
+- JS
+
 ## To run locally 
 
 Make sure `node` & `npm` or `yarn` is installed on your system.
